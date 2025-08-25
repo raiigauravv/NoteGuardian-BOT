@@ -66,4 +66,3 @@ MIT License
 
 ---
 
-*If you need a logo, badges, or further customization in the README, just let me know!*
